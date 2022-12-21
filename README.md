@@ -1,6 +1,6 @@
 ### Making random characters in a game ### 
 
-## The goal:##
+## The goal: ##
 
 The Relationship game (name still pending) is a multiplayer interactive relationship game that makes you more intentional in dealing with conflicts and navigating relationship. 
 the characters involed in the game requires generation of muliple random characters (with different characteristics). 
